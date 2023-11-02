@@ -267,9 +267,7 @@ for (character of starWarsCharacters){
   Una volta fatto crea un console.log per controllare la proprietà length di "characters" prima e dopo l'operazione.
 */
 
-function checkEmpty(property){
-  return 
-}
+
 
 for (female of femaleCharacters){
   let name = female.name;
